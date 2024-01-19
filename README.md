@@ -31,3 +31,6 @@ npm run dev
 - Lesson 06 - Object basics
 - Lesson 07 - types vs interfaces
 - Lesson 08 - Functions
+- Lesson 09 - void type and optional parameters
+- Lesson 10 - Destructuring parameters in functions
+- Lesson 11 - Typing variables as functions
